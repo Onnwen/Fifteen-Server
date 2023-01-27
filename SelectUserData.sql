@@ -1,0 +1,1 @@
+SELECT first_name, last_name FROM Users WHERE valore_id;
